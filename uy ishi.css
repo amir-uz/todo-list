@@ -1,0 +1,115 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  background: url("image\ copy.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.wrapper{
+display: flex;
+justify-content: center;
+gap: 600px;
+padding-top: 30px;
+}
+
+.nav-menuu{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  color: white;
+  font-size: 20px;
+}
+
+button{
+  width: 120px;
+  height: 40px;
+  color: white;
+  border-radius: 13px;
+  font-size: 20px;
+  border: none;
+  background-color: #3C3757;
+  border:2px solid white;
+ margin-top: -10px;
+ margin-left: 300px;
+}
+
+.oo{
+  font-size: 30px;
+  color: white;
+}
+
+.ppp{
+display: flex;
+justify-content: center;
+
+margin-left: 550px;
+margin-top: 100px;
+  width: 460px;
+    border: none;
+  height: 460px;
+  border-radius: 20px;
+
+
+  backdrop-filter: blur(10px);
+}
+
+.mmm{
+  width: 300px;
+  border-radius: 13px;
+  font-size: 20px;
+  padding: 20px;
+  height: 40px;
+  border: none;
+  color:blue;
+}
+
+.nn{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  margin-left: -30px;
+  color: white;
+}
+
+.ww{
+  padding-top: 5px;
+  color: white;
+}
+
+
+.pp{
+  padding-left: 00px;
+}
+.aaa{
+display: flex;
+justify-content: center;
+padding-top: 5px;
+margin-left: 100px;
+margin-top: 80px;
+}
+
+
+.ccc{
+  display: flex;
+gap: 10px;
+}
+
+
+.hhh{
+  width: 120px;
+  height: 40px;
+  color: white;
+  border-radius: 13px;
+  font-size: 20px;
+  border: none;
+  background-color: #3C3757;
+  border:2px solid white;
+ margin-top: 3px;
+ margin-left: 00px;
+}
